@@ -1,0 +1,22 @@
+.footer {
+  background-color: #6278f7;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 75px;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-right: 35px;
+}
+
+.footer ul li:last-child {
+  margin-right: 0px;
+}
+
+.footer p {
+  font-weight: 500;
+  font-size: 20px;
+}
